@@ -1,0 +1,19 @@
+.artical-title{
+    font-size: 20px;
+}
+.artical-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.btn-read-more{
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    text-decoration: none;
+    background-color: black;
+    padding: 5px 15px;
+    color: white;
+    border-radius:10px;
+    cursor: pointer;
+}
